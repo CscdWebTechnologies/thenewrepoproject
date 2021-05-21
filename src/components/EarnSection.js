@@ -55,13 +55,13 @@ export default class Earn extends React.Component {
 										alt="logo"
 									/>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium col-span-2">
-										Skale
+									Ampleforth Governance Token
 									</p>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium hidden lg:block">
-										SKL
+									FORTH
 									</p>
 									<p className="my-auto text-right flex-grow text-green-500 col-span-3 font-medium">
-										Earn $3 SKL
+									Earn $3 FORTH
 									</p>
 								</div>
 							</div>
@@ -74,13 +74,13 @@ export default class Earn extends React.Component {
 										alt="logo"
 									/>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium col-span-2">
-										Skale
+									The Graph
 									</p>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium hidden lg:block">
-										SKL
+									GRT
 									</p>
 									<p className="my-auto text-right flex-grow text-green-500 col-span-3 font-medium">
-										Earn $3 SKL
+									Earn $3 GRT
 									</p>
 								</div>
 							</div>
@@ -93,13 +93,13 @@ export default class Earn extends React.Component {
 										alt="logo"
 									/>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium col-span-2">
-										Skale
+									Stellar Lumens
 									</p>
 									<p className="my-auto ml-4 text-lg lg:text-xl font-medium hidden lg:block">
-										SKL
+									XLM
 									</p>
 									<p className="my-auto text-right flex-grow text-green-500 col-span-3 font-medium">
-										Earn $3 SKL
+									Earn $10 XLM
 									</p>
 								</div>
 							</div>
