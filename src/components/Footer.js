@@ -51,9 +51,23 @@ export default class Footer extends React.Component {
 								className="px-1 py-2 mt-5 border border-gray-300 w-2/3"
 								style={{ borderRadius: "4px" }}
 							>
-								{[...Array(10).keys()].map((i) => (
+								{/*[...Array(10).keys()].map((i) => (
 									<option>English</option>
-								))}
+								))*/}
+								    <option>English</option>
+									<option>Deutsch</option>
+									<option>Español - España</option>
+									<option>Español - América Latina</option>
+									<option>Français - France</option>
+									<option>Bahasa Indonesia</option>
+									<option>Italiano</option>
+									<option>한국어</option>
+									<option>Polski</option>
+									<option>Português - Brasil</option>
+									<option>Português - Portugal</option>
+									<option>Pусский</option>
+									<option>ไทย</option>
+									<option>Türkçe</option>	
 							</select>
 							<p className="mt-4 text-gray-400">
 								© 2021 Coinbase
